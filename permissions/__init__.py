@@ -1,1 +1,1 @@
-from permissions import *
+from permissions.permissions import *
